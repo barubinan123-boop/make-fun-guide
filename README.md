@@ -184,6 +184,19 @@ Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<
 
 If this guide helped, signing up through [my link](https://make.fun/r/s0awek38) (code `s0awek38`) is a nice way to say thanks.
 
+## A note from the author
+
+Hi, I'm Husni, from Bandung, Indonesia. I wrote this guide after going through the whole loop myself: signing up, linking GitHub, connecting an agent, and submitting an entry. The part that surprised me most was how much of the work is just reading the rules carefully and letting the kit check your entry before you submit — the local `check` command saved me from a rejected entry at least once.
+
+My practical tips, learned the hard way:
+
+- **Verify your email right away.** A GitHub account that is not verified, or that gets flagged, cannot own an entry at all.
+- **Link GitHub before you build.** Your repository must be owned by the GitHub account linked to your make.fun account, or the entry is refused.
+- **Run `check` before you submit.** A rejected submission still counts toward your daily limit.
+- **Keep your referral link in the README, not just in a comment.** Only the link and code that readers can actually see and click will bring signups.
+
+If you are reading this from Indonesia, you are not alone — the whole flow works the same here, in English or in Indonesian, and the reward is paid in USDC on Solana either way.
+
 ## Questions
 
 <details>
